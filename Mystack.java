@@ -1,4 +1,4 @@
-
+import java.util.*;
 class Mystack extends ArrayList<Object>{
 	
 	/**Add a new string to arrayList*/
