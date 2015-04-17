@@ -6,7 +6,7 @@
  *		This is a class which shows the result of the string in reserve order.
  */
 import java.util.Scanner;
-import java.util.ArrayList;
+
 
 /**Main method*/
 public class TestMystack{
